@@ -1,0 +1,8 @@
+hash: b9530489512864bd3e5f3e63dfac547c1249712dd70a95655074123f109e26d6
+updated: 2016-06-15T11:47:06.125029561-05:00
+imports:
+- name: github.com/pin/tftp
+  version: 39d4171d8d97b74a955d75d9ee6e369c855a2d22
+  subpackages:
+  - netascii
+devImports: []

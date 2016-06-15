@@ -1,0 +1,3 @@
+package: github.com/VictorLowther/sws
+import:
+- package: github.com/pin/tftp
